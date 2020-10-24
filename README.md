@@ -3,4 +3,4 @@
 Калькулятор на чистом Javascript и Grid'ах.
 
 ## Demo
-https://jstraveller.github.io/jsCalculator/
+https://aaleo402.github.io/jsCalculator/
